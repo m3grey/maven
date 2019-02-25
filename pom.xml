@@ -29,6 +29,11 @@
 		<artifactId>cobertura</artifactId>
 		<version>1.9rc1</version>
 	</dependency>
+	<dependency>
+	<groupId>maven-plugins</groupId>
+		<artifactId>maven-cobertura-plugin</artifactId>
+		<version>1.4</version>
+	</dependency>
   </dependencies>
 
   <build>
